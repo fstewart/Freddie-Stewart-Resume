@@ -138,26 +138,6 @@
 	</b>  Python, Perl, React, Angular, MongoDB, Gulp, Docker, Java, J2EE, Hibernate, RESTFUL Webservices, shell scripting, Confluence, JIRA, Nagios Server Monitor<br>
 </p>
 
-<p>
-	<ul>
-		<li>
-			<a href="http://www.login4test.com/candidate-report.aspx?transcriptid=3521730" target="_blank">
-				2018 Login4Test.com HTML 5 Skills Assessment Results
-			</a>
-		</li>
-		<li>
-			<a href="http://www.login4test.com/candidate-report.aspx?transcriptid=3521731" target="_blank">
-				2018 Login4Test.com CSS 3 Skills Assessment Results
-			</a>
-		</li>
-		<li>
-			<a href="http://www.login4test.com/candidate-report.aspx?transcriptid=3521728" target="_blank">
-				2018 Login4Test.com Ruby 3 Skills Assessment Results
-			</a>
-		</li>
-	</ul>
-</p>
-
 <p>	
 	<h2>
 		Links
