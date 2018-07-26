@@ -77,8 +77,11 @@
 
 <p>
 	<h3>
-		Type 2 Diabetes Research Study:  National Pharmaceutical Research Study.  https://bexamet419.com
+		Type 2 Diabetes Research Study:  National Pharmaceutical Research Study.  
 	</h3>
+	<a href="https://bexamet419.com">
+		https://bexamet419.com
+	</a>
 	<ul>
 		<li>
 			Developed using Wordpress and Google Forms for recruitment and automated notifications
