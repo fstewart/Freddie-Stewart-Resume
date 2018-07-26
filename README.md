@@ -36,7 +36,7 @@
 <p>
 	<h3>
 		Lead Web Developer
-	<h3>
+	</h3>
 	The University of Alabama - Tuscaloosa, AL <br>
 	October 2014 to October 2017 <br>		
 	<ul>
